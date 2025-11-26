@@ -71,7 +71,7 @@ analyze_and_compose_polyphony(all_paths, selected_emotion)
 
 ## **결과 화면**
 ### 메인 화면
-![Drawing to Song 🎶](https://github.com/user-attachments/assets/9fd89d38-a8ff-413a-867d-4bd4622c3fd4)
+images/Drawing to Song 🎶.jpg
 
 ### 실행 화면
 ![Drawing to Song2 🎶](https://github.com/user-attachments/assets/eff67870-e783-4f3b-8593-452dd853a145)
