@@ -71,10 +71,10 @@ analyze_and_compose_polyphony(all_paths, selected_emotion)
 
 ## **결과 화면**
 ### 메인 화면
-images/Drawing to Song 🎶.jpg
+![](images/Drawing to Song 🎶.jpg)
 
 ### 실행 화면
-images/Drawing to Song2 🎶.jpg
+![](images/Drawing to Song2 🎶.jpg)
 
 ## 라이센스
 MIT License
