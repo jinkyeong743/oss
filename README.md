@@ -77,7 +77,7 @@ analyze_and_compose_polyphony(all_paths, selected_emotion)
 ![Drawing to Song2 🎶](https://github.com/user-attachments/assets/eff67870-e783-4f3b-8593-452dd853a145)
 
 ## 라이센스
-MIT Licencse
+MIT License
 
 ## 참고 자료
 + 웹 프레임워크: streamlit
