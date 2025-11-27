@@ -8,10 +8,10 @@
    ```
    $ pip install streamlit numpy scipy streamlit-drawable-canvas
    ```
-   이 repository에 있는 melody_canvas.py 파일 다운로드
+   이 repository에 있는 파일들 다운로드
 2. 실행
    ```
-   $ streamlit run melody_canvas.py
+   $ streamlit run app.py
    ```
 3. 웹 브라우저에서 자동 실행
    ```
