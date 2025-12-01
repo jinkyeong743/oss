@@ -13,7 +13,7 @@
    ```
    $ streamlit run app.py
    ```
-3. 웹 브라우저에서 자동 실행
+3. 웹 브라우저 열림
    ```
    http://localhost:8501/
    ```
